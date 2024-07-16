@@ -16,8 +16,8 @@ To run this project, you need to have Python installed. The `turtle` module is i
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/MeetRadadiya2210/etch-a-sketch.git
-cd etch-a-sketch
+git clone https://github.com/MeetRadadiya22/Etch-A-Sketch.git
+cd Etch-A-Sketch
 ```
 
 2. Run the `mains.py` script.
