@@ -34,6 +34,14 @@ python mains.py
    - **A:** Turn left
    - **C:** Clear the screen and reset the turtle's position
 
+## Example
+
+![1](https://github.com/user-attachments/assets/589fc7b9-9fb2-4ce0-bd16-6215cea8b15c)
+
+- After pressing '`C`' to clear the screen.
+![2](https://github.com/user-attachments/assets/6bbc3f7c-d642-487a-b930-0b1f2f151f24)
+
+
 
 ## Acknowledgment
 
